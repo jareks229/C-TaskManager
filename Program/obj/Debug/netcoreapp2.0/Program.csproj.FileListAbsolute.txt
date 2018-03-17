@@ -1,0 +1,11 @@
+C:\Users\Wiesia\Desktop\Kurs\CSharp Zadania\Warsztaty_1\Program\bin\Debug\netcoreapp2.0\Program.deps.json
+C:\Users\Wiesia\Desktop\Kurs\CSharp Zadania\Warsztaty_1\Program\bin\Debug\netcoreapp2.0\Program.runtimeconfig.json
+C:\Users\Wiesia\Desktop\Kurs\CSharp Zadania\Warsztaty_1\Program\bin\Debug\netcoreapp2.0\Program.runtimeconfig.dev.json
+C:\Users\Wiesia\Desktop\Kurs\CSharp Zadania\Warsztaty_1\Program\bin\Debug\netcoreapp2.0\Program.dll
+C:\Users\Wiesia\Desktop\Kurs\CSharp Zadania\Warsztaty_1\Program\bin\Debug\netcoreapp2.0\Program.pdb
+C:\Users\Wiesia\Desktop\Kurs\CSharp Zadania\Warsztaty_1\Program\obj\Debug\netcoreapp2.0\Program.csprojResolveAssemblyReference.cache
+C:\Users\Wiesia\Desktop\Kurs\CSharp Zadania\Warsztaty_1\Program\obj\Debug\netcoreapp2.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\Wiesia\Desktop\Kurs\CSharp Zadania\Warsztaty_1\Program\obj\Debug\netcoreapp2.0\Program.AssemblyInfoInputs.cache
+C:\Users\Wiesia\Desktop\Kurs\CSharp Zadania\Warsztaty_1\Program\obj\Debug\netcoreapp2.0\Program.AssemblyInfo.cs
+C:\Users\Wiesia\Desktop\Kurs\CSharp Zadania\Warsztaty_1\Program\obj\Debug\netcoreapp2.0\Program.dll
+C:\Users\Wiesia\Desktop\Kurs\CSharp Zadania\Warsztaty_1\Program\obj\Debug\netcoreapp2.0\Program.pdb
